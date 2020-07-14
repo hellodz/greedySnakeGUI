@@ -12,7 +12,7 @@
 
 # 效果截图
 
-![image-20200714132700398](https://img2020.cnblogs.com/blog/1235676/202007/1235676-20200714225551568-1388652132.png)
+![image-20200714132700398.png](https://i.loli.net/2020/07/14/VUECj9fdSBTDM2L.png)
 
 # 逻辑分析
 
@@ -100,8 +100,7 @@ public class GameFrame extends JFrame {
     }
 }
 ```
-
-![image-20200714141303883](https://img2020.cnblogs.com/blog/1235676/202007/1235676-20200714225551883-1336238940.png)
+![image-20200714141303883.png](https://i.loli.net/2020/07/14/2MAjQwBqbZYJKr9.png)
 
 ==得到窗口的边界区域，需要放在setVisible下面输出的4个结果才不是0，不能在setSize中直接Datas.GameWidth+insets.left+insets.right==
 
@@ -111,6 +110,6 @@ public class GameFrame extends JFrame {
 
 两个例子给你就很理解了
 
-![image-20200714143007036](https://img2020.cnblogs.com/blog/1235676/202007/1235676-20200714225552482-1765428121.png)
+![image-20200714143416285.png](https://i.loli.net/2020/07/14/SkDsNh2vrTM14tJ.png)
 
-![image-20200714143416285](https://img2020.cnblogs.com/blog/1235676/202007/1235676-20200714225552751-1722643551.png)
+![image-20200714143007036.png](https://i.loli.net/2020/07/14/hox37y8nSglYGDI.png)
