@@ -1,0 +1,2 @@
+# greedySnakeGUI
+用java的GUI实现一个简单的贪吃蛇项目
